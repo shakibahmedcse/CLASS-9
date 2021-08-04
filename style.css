@@ -1,0 +1,109 @@
+
+.full-website{
+    width: 1024px;
+    margin:  auto;
+    text-align: center;
+}
+/* Header CSS */
+.header-section{
+    background: #34495e;
+    padding: 5px;
+}
+.header-section h3{
+    color: white;
+    text-align: center;
+}
+/* Cover CSS */
+.cover-section{
+    background-color: #e67e22;
+}
+.img-item img {
+	width: 600px;
+	height: 300px;
+	margin-top: 65px;
+	margin-bottom: 65px;
+	box-shadow: 15px 15px 14px white;
+}
+/* title-section CSS */
+
+.title-section{
+    background-color: #2c3e50;
+}
+.title-item {
+	padding: 20px;
+}
+.title-item h1 {
+	color: #fff;
+	font-weight: 600;
+}
+.title-item h4 {
+	color: #3498db;
+	font-weight: 500;
+	margin-top: 21px;
+}
+.title-item p {
+	color: #fff;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+/* container-section CSS */
+
+.container-section{
+    background-color: #8e44ad;
+}
+.cont-item{
+    padding: 20px;
+}
+.cont-item p{
+    color: #fff;
+}
+.cont-item h4{
+    color: teal;
+    font-weight: bold;
+}
+.cont-item h2{
+    color: orange;
+    font-weight: bold;
+}
+.cont-item h3{
+    color:rgb(180, 174, 174);
+    font-weight: bold;
+}
+
+/* footer-top CSS */
+
+.footer-top{
+    background-color: #f39c12;
+}
+.main-div{
+    padding: 30px;
+}
+.div1{
+    width: 400px;
+    height: 100px;
+    border: dotted;
+    background-color: #dddddd;
+    box-shadow: 3px 6px 6px rgba(0,0,0,0);
+    margin-left: 280px;
+    border-radius: 5px;
+    
+}
+.div1 h2{
+    padding: 10px;
+}
+.main-div .div1{
+	box-shadow: 15px 15px 0px 0px white;
+
+}
+/* main footer */
+
+.footer-main{
+    background-color: #2c3e50;
+}
+.item{}
+.item p{
+    color: #fff;
+    font-weight: 500;
+    
+}
